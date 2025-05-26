@@ -1,0 +1,23 @@
+podcast lo image overlay set 
+
+
+footer				
+cards-design 
+logo add 
+
+
+
+
+
+
+
+
+Doubts
+============
+responsive 
+overlay
+
+
+GO ANSWER VALED 
+================
+Sometimes !important is not working
