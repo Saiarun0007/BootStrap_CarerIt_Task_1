@@ -255,7 +255,25 @@ header {
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 10px;
+
     /* Remove opacity transition so it's always visible */
+}
+
+.thq {
+    transition: all 5.3s ease;
+}
+
+.caption a {
+    color: white !important;
+    font-weight: 500;
+}
+
+.thh:hover a {
+    color: black !important;
+    background-color: white;
 }
 
 /* Optional: background dim on hover */
