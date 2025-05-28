@@ -308,7 +308,8 @@ footer {
 
 footer a {
     text-decoration: none !important;
-    color: white !important;
+    /* color: white !important; */
+    color: #c0c0c1 !important;
 }
 
 .bg-dark {
